@@ -12,7 +12,7 @@ Java, JavaFX
 Object-Oriented Programming (OOP)
 
 ### Project Details
-[Please find the problem statement here]()
+[Please find the problem statement here](approjectoption-1-classroomroombookingsystem_14067.pdf)
 
 ### Deployment
 1. Clone or download the project repo.
